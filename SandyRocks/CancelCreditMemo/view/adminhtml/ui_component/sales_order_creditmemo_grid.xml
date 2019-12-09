@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Ui/etc/ui_configuration.xsd">
+  <listingToolbar name="listing_top">
+    <massaction name="listing_massaction">
+            <action name="cancel_creditmemo">
+                <settings>
+                    <url path="cancelcreditmemo/creditmemo/cancel"/>
+                    <type>cancel_creditmemo</type>
+                    <label translate="true">Cancel Credit Memo</label>
+                </settings>
+            </action>
+        </massaction>
+</listingToolbar>
+</listing>
