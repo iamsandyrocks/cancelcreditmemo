@@ -1,4 +1,4 @@
-# Magento 2 Credit Memo
+# Magento 2 Cancel Credit Memo
 
 Option to Cancel Credit Memo from admin
 
